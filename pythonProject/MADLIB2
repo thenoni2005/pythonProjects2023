@@ -1,0 +1,30 @@
+# Anthony. Trujillo
+# 9/22/2022
+# Mad Lib
+
+
+# imports
+
+
+# globals
+
+OGTEXT2 = """The body text or body copy is the text forming the main content of a
+book, magazine, web page, or any other printed or digital work.
+This is as a contrast to both additional components such as headings, images, charts, footnotes etc.
+on each page, and also the pages of front matter that form the introduction to a book.
+"""
+
+#functions 
+
+
+#main
+
+
+def main():
+
+
+text2 = """The body text or body copy is the text forming the main content of a
+book, magazine, web page, or any other printed or digital work.
+This is as a contrast to both additional components such as headings, images, charts, footnotes etc.
+on each page, and also the pages of front matter that form the introduction to a book.
+"""

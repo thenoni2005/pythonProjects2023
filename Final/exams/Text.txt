@@ -1,0 +1,207 @@
+Anthony Trujillo
+Functions
+What does a print statement do?
+Make pancakes
+Fry some eggs
+Make some bacon
+Display text in your parenthesis
+4
+Print statements do not make breakfast
+
+Functions
+What kind of functions displays text?
+Else
+input
+if
+Print
+4
+Print statements display text
+
+Functions
+What is boolean?
+Maybe or Maybe Not values
+Simple or Confused
+Bacon or Pancakes
+True or False values
+4
+Boolean hold true and false
+
+Functions
+What do you import to use random
+import cheese
+import not random
+import selected values
+import random
+4
+To use random you must import random
+
+Functions
+What do you import to use date and time
+watch
+fart
+history
+datetime
+4
+To use datetime you must import datetime
+
+Functions
+What is the name of the programming language beginning with P
+Pancake
+Purple
+Phunky
+Python
+4
+Python is the only answer
+Functions
+What do you import to use math
+math
+meth
+Heisenberg
+Jesse Pinkman
+4
+Explanation
+
+Functions
+What is the second letter in the word python
+p
+n
+o
+y
+4
+The second letter in python is n
+Functions
+What is the third letter in the word python
+p
+y
+o
+t
+4
+The third letter in python is t
+Operators
+What are logical operators
+Hope
+Fear
+Joy
+AND,OR,NOT
+4
+Logical operators include AND,OR,NOT
+Operators
+What are relational operators
+AND,OR,NOT
+Hope
+Joy
+==,! = ,>, >
+4
+Relational Operators are comparison operators
+Operators
+What are arithmetic operators
+AND,OR,NOT
+Hope
+Joy
++,-,/,%
+4
+Arithmetic Operators are mathematical operators
+Operators
+How do you compare two values
+You add them
+You subtract them
+You divide them
+> , <
+4
+Relational Operators are comparison operators
+Operators
+How do you compare two values
+You add them
+You subtract them
+You divide them
+> , <
+4
+Relational Operators are comparison operators
+Operators
+How do you add two values
+You compare them
+You subtract them
+You divide them
+You add them
+4
+To add two values you simply add them
+Operators
+How do you subtract two values
+You compare them
+You add them
+You divide them
+You subtract them
+4
+To subtract two values you simply subtract them
+Operators
+How do you divide two values
+You compare them
+You add them
+You subtract them
+You divide them
+4
+To divide two values you simply divide them
+Operators
+How do you slowly add one to your value
+You compare them
+You add them
+You subtract them
++=
+4
++= slowly adds one to your value in your function
+Operators
+What does % do in python
+You compare them
+You add them
+You subtract them
+Give you the remainder
+4
+Gives you the remainder
+Functions
+What does * do in python
+You compare them
+You add them
+You subtract them
+Multiplies your values
+4
+The star symbol is the multiplier symbol
+Functions
+What does IF do in python
+You compare them
+You add them
+You subtract them
+Runs a function if a certain thing is true
+4
+If statements run when something is true
+Functions
+What does AND do in python
+You compare them
+You add them
+You subtract them
+Runs a block of code if both statements are true
+4
+If statements run when something is true
+Functions
+What does ELSE do in python
+You compare them
+You add them
+You subtract them
+Runs a block of code if given statements are false
+4
+If statements run when something is false
+Functions
+What does () do in python
+You compare them
+You add them
+You subtract them
+Contains your code to separate it
+4
+If statements run when something is false
+Functions
+What does [] do in python
+You compare them
+You add them
+You subtract them
+Creates a list
+4
+creates a list
